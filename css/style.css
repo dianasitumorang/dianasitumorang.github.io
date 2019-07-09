@@ -1,1 +1,27 @@
+/* Start Body */
+body {
+    background-color: lightpink;
+    color: black;
+    font-family: Lucida-Sans, Lucida-Sans-Regular; 
+    font-size: 16px;
+    line-height: 1.5em;
+    margin: 0;
+    padding: 0;
+}
+/* End Body */ 
 
+/* Start Debug */
+.bg-ivory {
+    background-color: ivory
+}
+.bg-beige {
+    background-color: beige
+}
+/* End Debug */
+
+/* Start Container */
+.container {
+    margin: 10px auto;
+    overflow: auto;
+    width: 90%
+}
